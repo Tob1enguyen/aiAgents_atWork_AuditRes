@@ -1,0 +1,105 @@
+Task ID,Occupation (O*NET-SOC Title),Task,User ID,Date,Automation Capacity Rating,Physical Action Requirement,Involved Uncertainty,Domain Expertise Requirement,Interpersonal Communication Requirement,Human Agency Scale Rating
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,YellowZebra,2025/4/5,3,1,2,4,2,2
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,YellowZebra,2025/4/5,2,1,3,4,4,4
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",YellowZebra,2025/4/5,4,1,2,2,1,2
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,YellowZebra,2025/4/5,2,1,2,4,2,3
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",YellowZebra,2025/4/5,2,1,2,4,3,5
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,GreenElephant,2025/4/5,2,3,4,4,4,4
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,GreenElephant,2025/4/5,2,3,4,4,4,4
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",GreenElephant,2025/4/5,2,3,4,4,4,4
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",YellowZebra,2025/4/5,3,1,2,3,3,3
+3478,Computer Systems Analysts,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",YellowZebra,2025/4/5,5,1,1,2,2,1
+3480,Computer Systems Analysts,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",YellowZebra,2025/4/5,5,1,1,2,1,1
+3474,Computer Systems Analysts,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",YellowZebra,2025/4/5,3,1,3,3,3,3
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,YellowZebra,2025/4/5,2,1,4,4,4,4
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",YellowZebra,2025/4/5,3,1,4,4,4,3
+14624,Computer and Information Research Scientists,Assign or schedule tasks to meet work priorities and goals.,YellowZebra,2025/4/5,3,1,3,3,3,3
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",YellowZebra,2025/4/5,2,1,4,4,4,5
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",YellowZebra,2025/4/5,4,1,2,3,3,2
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,YellowZebra,2025/4/5,4,1,2,3,2,2
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,YellowZebra,2025/4/5,3,1,3,3,3,2
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",YellowZebra,2025/4/5,3,1,3,3,2,3
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",YellowZebra,2025/4/5,2,1,4,4,4,5
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",YellowZebra,2025/4/5,3,1,1,2,5,2
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,YellowZebra,2025/4/5,3,1,2,4,4,4
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",YellowZebra,2025/4/5,4,1,2,3,2,2
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",YellowZebra,2025/4/5,5,1,1,3,1,1
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,YellowZebra,2025/4/5,2,1,3,3,5,4
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",YellowZebra,2025/4/5,2,1,4,4,4,5
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",YellowZebra,2025/4/5,3,1,2,2,4,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",YellowZebra,2025/4/5,3,1,2,3,3,3
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,YellowZebra,2025/4/5,4,1,1,3,1,2
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,GreenElephant,2025/4/6,3,2,3,3,2,4
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",GreenElephant,2025/4/6,2,3,4,4,4,5
+3470,Computer Systems Analysts,Expand or modify system to serve new purposes or improve work flow.,GreenElephant,2025/4/6,3,3,3,4,2,4
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,GreenElephant,2025/4/6,3,3,3,3,2,4
+14625,Computer and Information Research Scientists,Evaluate project plans and proposals to assess feasibility issues.,GreenElephant,2025/4/6,3,2,3,3,2,4
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",GreenElephant,2025/4/6,3,2,3,3,4,4
+3478,Computer Systems Analysts,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",GreenElephant,2025/4/6,4,2,3,3,2,3
+3474,Computer Systems Analysts,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",GreenElephant,2025/4/6,3,2,3,3,2,4
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,GreenElephant,2025/4/6,2,3,4,4,4,5
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",GreenElephant,2025/4/6,3,3,4,4,3,4
+14624,Computer and Information Research Scientists,Assign or schedule tasks to meet work priorities and goals.,GreenElephant,2025/4/6,3,2,3,3,2,4
+969,Computer and Information Systems Managers,"Assign and review the work of systems analysts, programmers, and other computer-related workers.",BlueLion,2025/4/7,2,1,2,4,4,4
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,GreenElephant,2025/4/7,3,2,3,3,2,4
+14636,Computer and Information Research Scientists,"Approve, prepare, monitor, and adjust operational budgets.",GreenElephant,2025/4/7,3,2,3,3,3,4
+980,Computer and Information Systems Managers,Prepare and review operational reports or project progress reports.,BlueLion,2025/4/7,4,1,2,3,2,2
+978,Computer and Information Systems Managers,Review project plans to plan and coordinate project activity.,BlueLion,2025/4/7,2,1,2,4,4,4
+971,Computer and Information Systems Managers,"Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery.",BlueLion,2025/4/7,4,1,2,3,2,2
+966,Computer and Information Systems Managers,"Manage backup, security and user help systems.",BlueLion,2025/4/7,4,1,3,4,2,2
+972,Computer and Information Systems Managers,Review and approve all systems charts and programs prior to their implementation.,BlueLion,2025/4/7,3,1,2,3,2,3
+979,Computer and Information Systems Managers,Evaluate data processing proposals to assess project feasibility and requirements.,BlueLion,2025/4/7,3,1,3,4,2,3
+970,Computer and Information Systems Managers,Stay abreast of advances in technology.,BlueLion,2025/4/7,3,1,1,5,1,3
+974,Computer and Information Systems Managers,Control operational budget and expenditures.,BlueLion,2025/4/7,3,2,3,3,2,3
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,250_b,2025/4/22,4,2,2,2,3,2
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",250_b,2025/4/22,3,1,2,3,2,3
+3465,Computer Systems Analysts,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",250_b,2025/4/22,3,2,2,2,3,3
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,250_b,2025/4/22,3,1,2,2,2,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",250_b,2025/4/22,3,2,2,1,2,3
+979,Computer and Information Systems Managers,Evaluate data processing proposals to assess project feasibility and requirements.,50,2025/4/29,1,2,1,3,1,2
+969,Computer and Information Systems Managers,"Assign and review the work of systems analysts, programmers, and other computer-related workers.",50,2025/4/29,2,2,2,1,1,3
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,50,2025/4/29,2,2,2,2,1,3
+972,Computer and Information Systems Managers,Review and approve all systems charts and programs prior to their implementation.,50,2025/4/29,2,3,2,2,1,3
+974,Computer and Information Systems Managers,Control operational budget and expenditures.,50,2025/4/29,1,2,2,2,1,3
+3470,Computer Systems Analysts,Expand or modify system to serve new purposes or improve work flow.,50,2025/4/29,1,2,1,2,1,3
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,350_a,2025/4/29,4,1,2,5,2,3
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,350_a,2025/4/29,2,2,2,4,4,4
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",350_a,2025/4/29,3,1,2,5,2,4
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",350_a,2025/4/29,2,4,2,5,2,3
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",350_a,2025/4/29,3,1,2,5,4,3
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",350_a,2025/4/29,2,1,3,5,3,4
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",350_a,2025/4/29,2,2,3,2,5,4
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,350_a,2025/4/29,3,1,4,4,2,4
+3465,Computer Systems Analysts,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",250_a,2025/4/30,3,1,3,5,3,3
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,250_a,2025/4/30,3,1,3,5,2,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",250_a,2025/4/30,2,1,3,4,4,3
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",250_a,2025/4/30,4,1,3,5,2,2
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,250_a,2025/4/30,3,1,3,4,4,3
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",300_a,2025/5/1,1,1,5,5,3,5
+14636,Computer and Information Research Scientists,"Approve, prepare, monitor, and adjust operational budgets.",300_a,2025/5/1,2,1,4,4,3,4
+14625,Computer and Information Research Scientists,Evaluate project plans and proposals to assess feasibility issues.,100,2025/5/3,5,1,3,2,4,3
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",150,2025/5/6,3,2,4,5,5,4
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",350_b,2025/5/7,4,1,1,5,1,1
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",350_b,2025/5/7,2,2,3,3,4,4
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",350_b,2025/5/7,4,1,1,3,2,2
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",350_b,2025/5/7,2,1,3,2,3,4
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,350_b,2025/5/7,3,1,3,2,5,4
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",350_b,2025/5/7,4,1,2,3,2,2
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",350_b,2025/5/7,2,1,3,3,4,4
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,350_b,2025/5/7,3,1,2,3,4,3
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",350_b,2025/5/7,5,1,1,3,2,1
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,350_b,2025/5/7,4,1,2,4,3,3
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",150,2025/5/8,4,1,3,1,3,4
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,150,2025/5/8,2,3,5,4,5,4
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",150,2025/5/8,3,3,3,4,3,3
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,150,2025/5/8,3,1,4,5,1,3
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,150,2025/5/8,2,2,2,5,2,4
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",300_b,2025/5/11,2,2,1,3,3,5
+980,Computer and Information Systems Managers,Prepare and review operational reports or project progress reports.,yijia,2025/5/15,3,1,3,3,3,3
+971,Computer and Information Systems Managers,"Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery.",yijia,2025/5/15,2,2,3,4,1,3
+970,Computer and Information Systems Managers,Stay abreast of advances in technology.,yijia,2025/5/15,2,1,1,3,1,4
+966,Computer and Information Systems Managers,"Manage backup, security and user help systems.",yijia,2025/5/15,3,1,1,3,2,3
+978,Computer and Information Systems Managers,Review project plans to plan and coordinate project activity.,yijia,2025/5/15,2,1,3,3,4,4
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",yijia,2025/5/15,2,1,3,4,3,3
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,yijia,2025/5/15,3,1,2,5,1,3
+3480,Computer Systems Analysts,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",yijia,2025/5/15,4,1,1,3,1,2
